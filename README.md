@@ -1,9 +1,9 @@
 # Ruby Object Attributes Lab
 
-## Objectives
+## Objectives 
 
 1. Define ruby classes.
-2. Define methods that read and write to instance variables.
+2. Define methods that read from and write to instance variables.
 3. Create object properties using methods and instance variables.
 
 ## Overview
@@ -32,6 +32,12 @@ You'll be teaching `Person` about their names through two methods, `#name`, and 
 
 ### Give a Person a Job
 
-You'll be teaching `Person` about their names through two methods, `#job`, and `#job=` that read and write to a corresponding instance variable `@job`.
+You'll be teaching `Person` about their jobs through two methods, `#job`, and `#job=` that read and write to a corresponding instance variable `@job`.
 
 When you're done submit the lab with `learn submit`
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-attributes-lab' title='Ruby Object Attributes Lab'>Ruby Object Attributes Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-object-attributes-lab'>Object Attributes Lab</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ruby-object-attributes-lab'>Object Attributes Lab</a> on Learn.co and start learning to code for free.</p>
